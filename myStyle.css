@@ -1,0 +1,11 @@
+body
+{ 
+	background-color: #ffffb3;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 100%;
+} 
+
+#centerMe
+{
+	margin-left: 80px;
+}
